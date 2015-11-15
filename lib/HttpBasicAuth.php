@@ -1,9 +1,8 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Ilson Nóbrega
- * Date: 15/11/2015
- * Time: 03:38
+ * Created by 9Bit Studios.
+ * Developed by Ian
+ * Font: http://www.9bitstudios.com/2013/06/basic-http-authentication-with-the-slim-php-framework-rest-api/
  */
 
 namespace Application\Lib;
